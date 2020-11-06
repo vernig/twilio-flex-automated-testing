@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CustomTaskListComponent Snapshot compare demo component to snapshot 1`] = `
+<div
+  className="css-157ejlk"
+>
+  This is a dismissible demo component
+  <i
+    className="accented"
+    onClick={[Function]}
+  >
+    close
+  </i>
+</div>
+`;
