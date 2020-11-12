@@ -1,4 +1,6 @@
-# Automated tests for your Flex plugins
+# Automated tests for your Flex plugins using Jest and Puppeteer
+
+This is the code companion for [this blogpost](https://www.twilio.com/blog/flex-plugins-automated-tests). You can find there a detailed descriptions of this repo. 
 
 ## Setup
 
